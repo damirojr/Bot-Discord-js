@@ -1,2 +1,4 @@
-# Bot-js
-Bot para aprender mais sobre JavaScript
+## Bot-js
+Bot para discord em JavaScript
+
+
