@@ -25,7 +25,7 @@ client.on('message', function(message){
     
     }
     if (message.content == 'facul'){
-        message.reply('Você quis dizer? "Sofrimento" :robot: https://desciclopedia.org/wiki/Faculdade ')
+        message.reply('Você quis dizer? "Sofrimento?" :robot: https://desciclopedia.org/wiki/Faculdade ')
     }
     if (message.content == 'ads'){
         message.reply('Nosso Curso :heart: https://desciclopedia.org/wiki/An%C3%A1lise_e_desenvolvimento_de_sistemas ')
