@@ -3,6 +3,7 @@ require('dotenv').config()
 const { Message } = require('discord.js')
 const Client = require('./src/structures/Client')
 
+
 const client = new Client({
     intents: [
         'GUILDS',
